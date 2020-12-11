@@ -1,4 +1,4 @@
-package com.lll.demo;
+package com.lll.websocket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
